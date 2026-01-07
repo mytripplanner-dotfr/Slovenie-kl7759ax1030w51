@@ -1,0 +1,216 @@
+{
+  "pays": "Slovénie",
+  "drapeau": "🇸🇮",
+  "symbole": "🐉",
+  "titre": "Escapade relaxante au cœur de la Slovénie",
+  "budget_total": "Environ 1250 €/personne",
+  "duree": "5 jours",
+  "temps_vol": "2h05 depuis Cott, royaume-uni",
+  "escale": "0",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Ljubljana et charme de la vieille ville",
+      "legende": "Dès votre arrivée, plongez dans l'atmosphère paisible de Ljubljana. Flânez le long de la rivière Ljubljanica, admirez les ponts emblématiques et laissez-vous séduire par l'architecture baroque et Art nouveau. Une première journée tout en douceur pour s'imprégner de la capitale.",
+      "lieu": "Ljubljana",
+      "activites": [
+        "🛬 <strong>Arrivée à Ljubljana</strong>: Atterrissage à l'aéroport de Ljubljana et transfert vers le centre-ville pour s'installer.",
+        "🛏️ <strong>Installation à l'hôtel</strong>: Prenez vos quartiers dans votre hébergement au cœur de la capitale slovène.",
+        "🚶‍♂️ <strong>Balade dans la Vieille Ville</strong>: Découvrez la Place Prešeren, le Triple Pont et le Pont des Dragons, symboles de Ljubljana."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Place Prešeren, Ljubljana",
+          "categorie": "Place",
+          "coords": { "lat": 46.0514, "lng": 14.5059 }
+        },
+        {
+          "nom_recherche": "Pont des Dragons, Ljubljana",
+          "categorie": "Pont",
+          "coords": { "lat": 46.0515, "lng": 14.5090 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transfert aéroport",
+          "texte": "Des navettes ou taxis sont disponibles pour rejoindre le centre de Ljubljana en environ 30 minutes."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏰",
+      "titre": "Hauteurs de Ljubljana et sérénité du Lac de Bled",
+      "legende": "Commencez la journée par une vue imprenable sur Ljubljana depuis son château, puis laissez-vous transporter vers la beauté légendaire du Lac de Bled. Une transition parfaite entre l'effervescence urbaine et la quiétude alpine.",
+      "lieu": "Ljubljana & Bled",
+      "activites": [
+        "🚠 <strong>Visite du Château de Ljubljana</strong>: Montez en funiculaire pour explorer le château et profiter d'un panorama exceptionnel sur la ville.",
+        "🚗 <strong>Route vers le Lac de Bled</strong>: Prenez la route pour environ 45 minutes à travers des paysages verdoyants jusqu'à Bled.",
+        "🚶‍♀️ <strong>Promenade autour du Lac de Bled</strong>: Détendez-vous avec une douce balade le long des rives du lac, admirant l'île et le château."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Ljubljana, Ljubljana",
+          "categorie": "Château",
+          "coords": { "lat": 46.0498, "lng": 14.5074 }
+        },
+        {
+          "nom_recherche": "Lac de Bled, Bled",
+          "categorie": "Lac",
+          "coords": { "lat": 46.3622, "lng": 14.1098 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🍽️",
+          "titre": "Pause gourmande",
+          "texte": "Goûtez à la célèbre \"Kremšnita\", le gâteau à la crème de Bled, une spécialité locale incontournable."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🛶",
+      "titre": "L'île de Bled et la gorge de Vintgar",
+      "legende": "Explorez l'emblématique île de Bled en \"Pletna\", puis laissez-vous émerveiller par la beauté naturelle de la gorge de Vintgar. Une journée dédiée à la découverte des trésors naturels et emblématiques de la région de Bled.",
+      "lieu": "Bled & Zgornje Gorje",
+      "activites": [
+        "🛶 <strong>Excursion à l'île de Bled</strong>: Montez à bord d'une barque traditionnelle \"Pletna\" pour rejoindre l'île et visiter son église.",
+        "🏰 <strong>Visite du Château de Bled</strong>: Admirez le château médiéval perché sur une falaise, offrant des vues spectaculaires sur le lac.",
+        "🏞️ <strong>Randonnée dans la Gorge de Vintgar</strong>: Profitez d'une promenade facile sur des passerelles en bois le long de la rivière Radovna, à travers cette gorge pittoresque."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Île de Bled, Bled",
+          "categorie": "Île",
+          "coords": { "lat": 46.3622, "lng": 14.0900 }
+        },
+        {
+          "nom_recherche": "Château de Bled, Bled",
+          "categorie": "Château",
+          "coords": { "lat": 46.3676, "lng": 14.1009 }
+        },
+        {
+          "nom_recherche": "Gorge de Vintgar, Zgornje Gorje",
+          "categorie": "Gorge",
+          "coords": { "lat": 46.3900, "lng": 14.0770 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🔔",
+          "titre": "La cloche des vœux",
+          "texte": "Sur l'île de Bled, sonnez la cloche de l'église et faites un vœu. La légende dit qu'il se réalisera!"
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "♨️",
+      "titre": "Détente thermale et paysages alpins",
+      "legende": "Offrez-vous une journée de pure relaxation dans les eaux thermales slovènes, réputées pour leurs bienfaits. L'après-midi, une douce immersion dans les paysages des Alpes de Kamnik-Savinja complètera cette parenthèse de bien-être.",
+      "lieu": "Kamnik & environs",
+      "activites": [
+        "♨️ <strong>Journée aux Thermes de Snovik</strong>: Profitez des piscines intérieures et extérieures, des saunas et des soins pour une détente absolue.",
+        "⛰️ <strong>Balade dans les Alpes de Kamnik-Savinja</strong>: Faites une promenade légère dans les environs, admirant les sommets et la nature préservée."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Terme Snovik, Kamnik",
+          "categorie": "Thermes",
+          "coords": { "lat": 46.2870, "lng": 14.6700 }
+        },
+        {
+          "nom_recherche": "Velika Planina, Stahovica",
+          "categorie": "Montagne",
+          "coords": { "lat": 46.2990, "lng": 14.6000 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "💧",
+          "titre": "Bienfaits de l'eau",
+          "texte": "Les eaux thermales de Snovik sont riches en calcium et magnésium, idéales pour la relaxation et la régénération."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🛫",
+      "titre": "Derniers instants slovènes et départ",
+      "legende": "Profitez d'une dernière matinée pour quelques emplettes ou un café tranquille à Ljubljana avant de prendre la route de l'aéroport. Emportez avec vous les souvenirs apaisants de cette belle escapade slovène.",
+      "lieu": "Ljubljana & Départ",
+      "activites": [
+        "🛍️ <strong>Derniers achats de souvenirs</strong>: Flânez dans les boutiques de Ljubljana pour trouver des cadeaux ou des produits locaux.",
+        "☕ <strong>Café matinal relaxant</strong>: Savourez un dernier café slovène sur une terrasse ensoleillée.",
+        "🛫 <strong>Transfert à l'aéroport et vol retour</strong>: Rejoignez l'aéroport de Ljubljana pour votre vol de retour vers le Royaume-Uni."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées souvenirs",
+          "texte": "Pensez au miel slovène, aux produits à base de sel de Piran ou à l'artisanat local en bois."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 283 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 250 €/pers (50€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 360 €/pers (4 nuits en 3* à 90€/nuit)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 80 €/pers (entrées sites, thermes)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Juin", "symbole": "🌸" },
+    { "titre": "Septembre à Octobre", "symbole": "🍂" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En mai, les températures varient entre 10 et 20°C. Prévoir des couches de vêtements et un imperméable.", "symbole": "☀️" },
+    { "titre": "La monnaie est l'Euro (€). Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Un permis de conduire européen est suffisant pour la location de voiture. La conduite est à droite, les vitesses en km/h.", "symbole": "🚗" },
+    { "titre": "Une eSIM ou une carte SIM locale (Telekom Slovenije, A1) est recommandée. Le Wi-Fi est disponible dans la plupart des hébergements.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "🐉",
+      "titre": "La légende du Dragon de Ljubljana",
+      "texte": "Le dragon est le symbole de Ljubljana. La légende raconte que Jason et les Argonautes ont fondé la ville après avoir vaincu un dragon dans les marais locaux. On le retrouve partout, notamment sur le célèbre Pont des Dragons!"
+    },
+    {
+      "symbole": "🐝",
+      "titre": "Un pays d'apiculteurs",
+      "texte": "La Slovénie est le seul pays de l'Union Européenne à avoir inscrit la protection des abeilles dans sa constitution. L'apiculture est une tradition ancestrale et le miel slovène est réputé pour sa qualité."
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍰",
+      "titre": "Kremšnita (Gâteau à la crème de Bled)",
+      "description": "Un dessert emblématique de Bled, composé de deux couches de pâte feuilletée croustillante, d'une généreuse couche de crème pâtissière vanillée et d'une couche de crème fouettée légère. Un délice à ne pas manquer!"
+    },
+    {
+      "symbole": "🍞",
+      "titre": "Potica",
+      "description": "Un gâteau roulé traditionnel slovène, souvent préparé pour les fêtes. Il existe de nombreuses variantes, la plus populaire étant celle aux noix, mais on en trouve aussi à l'estragon, au pavot ou au fromage cottage."
+    },
+    {
+      "symbole": "🥟",
+      "titre": "Idrijski žlikrofi",
+      "description": "Des raviolis traditionnels d'Idrija, farcis de pommes de terre, d'oignons, de lardons et d'épices. Ils sont généralement servis avec une sauce à la viande ou une sauce aux champignons. Un plat réconfortant et savoureux."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/LHR-LJU/2026-05-15/2026-05-20", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Slovénie", "url": "https://www.slovenia.info/fr", "symbole": "📘" },
+    { "legende": "Location de voiture", "titre": "Rentalcars Slovénie", "url": "https://www.rentalcars.com/fr/country/si/", "symbole": "🚗" },
+    { "legende": "Météo", "titre": "Météo Slovénie", "url": "https://www.meteo.si/en/", "symbole": "🌤️" }
+  ]
+}
